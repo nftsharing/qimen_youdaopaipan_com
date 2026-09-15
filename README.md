@@ -9,7 +9,7 @@ https://qimen.youdaopaipan.com/help.html
 
 ## 2. 如何使用？
 
-<img width="480" height="716" alt="image" src="https://github.com/user-attachments/assets/9d42c0be-0038-4431-8615-38bad3773321" />
+<img width="400" height="720" alt="image" src="https://github.com/user-attachments/assets/0e897b1d-16e0-4ab2-887d-cd792355fc62" />
 
 
 ## 3. 获得APP？
