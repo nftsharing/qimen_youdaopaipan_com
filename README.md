@@ -8,6 +8,9 @@ https://qimen.youdaopaipan.com/help.html
  <img width="400" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
 ## 2. 如何使用？
+
+<img width="642" height="968" alt="image" src="https://github.com/user-attachments/assets/6fff2a48-9742-47d4-99f6-39ee1aecad63" />
+
    
  <img width="500" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
 
