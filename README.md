@@ -22,7 +22,7 @@ https://qimen.youdaopaipan.com/help.html
 
 ## 5. 卦例1
    
-   <img width="400" height="1300" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
+   <img width="400" height="1100" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
 
 ## 6. 附：奇门遁甲的排盘方法
 ### 第一个步骤：准备工作。
@@ -31,9 +31,11 @@ https://qimen.youdaopaipan.com/help.html
 
 ### 第二个步骤：排盘。
 常见的奇门遁甲排盘软件很多，比如，“有道奇门排盘”、“齐山奇门”等，这里推荐使用前者进行排盘。
+
 <img width="368" height="650" alt="image" src="https://github.com/user-attachments/assets/12122a56-3332-480b-9941-052cadb461f1" />
 
 排盘步骤如图一所示，输入想要问的事情、起卦时间、性别，点击“开始排盘”。 即可生成由“九宫、八门、九星、八神”组成的奇门排盘。
+
 <img width="358" height="648" alt="image" src="https://github.com/user-attachments/assets/8fa0f465-635f-4e98-a9f4-023bb8cfb9e5" />
 
 好的奇门排盘，如图二所示，通常采用五行属性的字体颜色显示，包含值符 、值使、驿马等信息，可以手动更改局数，甚至包含人工智能解卦选项。
