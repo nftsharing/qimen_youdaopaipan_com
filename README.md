@@ -5,7 +5,7 @@ https://qimen.youdaopaipan.com/
 https://qimen.youdaopaipan.com/help.html
 
 ## 1. 什么是奇门遁甲？
- <img width="400" height="900" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
+ <img width="400" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
  
 ## 3. 如何使用？
@@ -19,11 +19,11 @@ https://qimen.youdaopaipan.com/help.html
 
 ## 5. 如何转发和收录？
    
- <img width="400" height="900" alt="image" src="https://bazi.youdaopaipan.com/help/share1.PNG" />
+ <img width="400" height="700" alt="image" src="https://bazi.youdaopaipan.com/help/share1.PNG" />
 
 ## 6. 卦例1
    
-   <img width="400" height="1600" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
+   <img width="400" height="1300" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
 
 ## 7. 附：奇门遁甲的排盘方法
 ### 第一个步骤：准备工作。
