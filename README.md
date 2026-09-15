@@ -10,7 +10,7 @@ https://qimen.youdaopaipan.com/help.html
 ## 2. 如何使用？
 
 
-<img width="500" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
+<img width="500"  alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
 
 
 ## 3. 获得APP？
