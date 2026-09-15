@@ -4,6 +4,8 @@ https://qimen.youdaopaipan.com/
 
 https://qimen.youdaopaipan.com/help.html
 
+https://www.youdaopaipan.com/
+
 ## 1. 什么是奇门遁甲？
  <img width="400" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
