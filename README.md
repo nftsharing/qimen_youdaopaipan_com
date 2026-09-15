@@ -7,24 +7,24 @@ https://qimen.youdaopaipan.com/help.html
 ## 1. 什么是奇门遁甲？
  <img width="400" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
-## 3. 如何使用？
+## 2. 如何使用？
    
  <img width="500" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
 
 
-## 4. 获得APP？
+## 3. 获得APP？
    
- <img width="400" height="700" alt="image" src="https://liuyao.youdaopaipan.com/download.html" />
+ https://liuyao.youdaopaipan.com/download.html
 
-## 5. 如何转发和收录？
+## 4. 如何转发和收录？
    
  <img width="400" height="700" alt="image" src="https://bazi.youdaopaipan.com/help/share1.PNG" />
 
-## 6. 卦例1
+## 5. 卦例1
    
    <img width="400" height="1300" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
 
-## 7. 附：奇门遁甲的排盘方法
+## 6. 附：奇门遁甲的排盘方法
 ### 第一个步骤：准备工作。
 （1）首先，安装好排盘软件；
 （2）确定好想预测的事情： 比如“张三占该项目能否签约”；一般默认采用时家奇门，节气差补法，转盘法等参数设置。
