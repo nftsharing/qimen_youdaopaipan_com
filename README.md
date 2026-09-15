@@ -7,7 +7,8 @@ https://qimen.youdaopaipan.com/help.html
 ## 1. 什么是奇门遁甲？
  <img width="400" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
- 
+ <img width="540" height="972" alt="image" src="https://github.com/user-attachments/assets/4ca76c84-e9db-4b6c-bffb-ef3e1de2a9b3" />
+
 ## 3. 如何使用？
    
  <img width="500" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
